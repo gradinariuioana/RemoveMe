@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RemoveMe</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="save">Save</string>
+
+    <string name="first_fragment">Welcome to RemoveMe!\nPress the plus button to start removing!</string>
+</resources>
